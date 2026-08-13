@@ -101,7 +101,3 @@ I am a Software & Full Stack Developer, ServiceNow Dual-Certified Specialist (CA
 | 🌐 **Personal Portfolio** | Modern Warm Obsidian & Gold Dark Theme Portfolio | HTML5, CSS3, JS, Bootstrap 5 | [View Repo](https://github.com/poornima2707/Portfolio_poornima) |
 
 ---
-
-<div align="center">
-  <sub>Designed with ❤️ by <b>Poornima Mendhekar</b></sub>
-</div>
